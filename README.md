@@ -26,10 +26,8 @@ After reviewing the dashboard and report I created, he was able to make informed
 ! [Data Ccleaning Process]("C:\Users\PC\Pictures\Screenshots\Screenshot-2025-12-11-103659.png")
 <!-- <img width="492" height="147" alt="Image" src="https://github.com/user-attachments/assets/fbda187f-34c0-48ca-a028-c1c12cdeb764" /> -->
 <p align="center">
-  <img  width="270" height="147" alt="Image" src="https://github.com/user-attachments/assets/fbda187f-34c0-48ca-a028-c1c12cdeb764">
-  <span style="font-size: 30px; margin: 0 10px;">=></span>
-  <img  width="270" height="147" alt="Image" src="https://github.com/user-attachments/assets/fbda187f-34c0-48ca-a028-c1c12cdeb764">
-  <span style="font-size: 30px; margin: 0 10px;">=>  </span>
-  <img  width="270" height="147" alt="Image" src="https://github.com/user-attachments/assets/fbda187f-34c0-48ca-a028-c1c12cdeb764">
+  <img  width="1800" height="147" alt="Image" src="https://github.com/user-attachments/assets/fbda187f-34c0-48ca-a028-c1c12cdeb764">
+  <img width="1862" height="714" alt="Image" src="https://github.com/user-attachments/assets/1c1f3ea9-5f1b-46cd-ac64-fec3ead664fe" />
+  <img width="1808" height="969" alt="Image" src="https://github.com/user-attachments/assets/91c1bd9b-9fe4-4786-8f37-f0db57fae68c" />
 </p>
 
