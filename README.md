@@ -24,5 +24,12 @@ After reviewing the dashboard and report I created, he was able to make informed
 - Applied data validation rules to prevent future errors.
 - Cleaned whitespace and formatting issues.
 ! [Data Ccleaning Process]("C:\Users\PC\Pictures\Screenshots\Screenshot-2025-12-11-103659.png")
-
+<!-- <img width="492" height="147" alt="Image" src="https://github.com/user-attachments/assets/fbda187f-34c0-48ca-a028-c1c12cdeb764" /> -->
+<p align="center">
+  <img  width="270" height="147" alt="Image" src="https://github.com/user-attachments/assets/fbda187f-34c0-48ca-a028-c1c12cdeb764">
+  <span style="font-size: 30px; margin: 0 10px;">=></span>
+  <img  width="270" height="147" alt="Image" src="https://github.com/user-attachments/assets/fbda187f-34c0-48ca-a028-c1c12cdeb764">
+  <span style="font-size: 30px; margin: 0 10px;">=>  </span>
+  <img  width="270" height="147" alt="Image" src="https://github.com/user-attachments/assets/fbda187f-34c0-48ca-a028-c1c12cdeb764">
+</p>
 
